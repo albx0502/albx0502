@@ -1,16 +1,25 @@
-## Hi there 👋
+# Alejandro Rodríguez Ortega
 
-<!--
-**albx0502/albx0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior developer focused on building clean, understandable software with solid fundamentals and room to grow.
 
-Here are some ideas to get you started:
+## Selected public work
+- [Portfolio](https://albx0502.github.io/)
+- [Project Soulware](https://isaacypunto.itch.io/project-soulware)
+- [Public repository](https://github.com/IsaacCepasDeFrutos/ProjectSoulware-Entregable)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I care about
+- clear frontend structure
+- gameplay and systems logic
+- useful product ideas
+- honest, maintainable code
+
+## Currently exploring
+- Flutter
+- React
+- Django
+- small product-oriented tools
+
+## Contact
+- GitHub: [albx0502](https://github.com/albx0502)
+- LinkedIn: [añadir enlace]
+- Email: [añadir email]
